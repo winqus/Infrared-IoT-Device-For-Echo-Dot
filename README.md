@@ -1,7 +1,7 @@
 # Infrared IoT Device For Echo Dot
 
 A custom IoT device that toggles a Yamaha AV Receiver with an infrared LED. It communicates with
-Echo Dot Alexa (smart speaker with a virtual assistant) through SINRIC PRO API, so you can switch the AV with voice commands. Uses an ESP8266 Wi-Fi microcontroller, programmed with C++.
+Echo Dot Alexa (smart speaker with a virtual assistant) through Sinric Pro API, so you can switch the AV with voice commands. Uses an ESP8266 Wi-Fi microcontroller, programmed with C++.
 
 ## IoT Device (CAD & IRL)
 The IoT device is placed on top of the Yamaha AV receiver and emits infrared light through the gaps in the chassis and luckily can hit the AV's sensor inside.
