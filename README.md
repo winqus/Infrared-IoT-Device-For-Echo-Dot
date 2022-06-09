@@ -10,9 +10,9 @@ The IoT device is placed on top of the Yamaha AV receiver and emits infrared lig
 
 ## Controlling With Voice
 I only need to tell my virtual assistant Alexa to turn on the device or group of devices (since I also have a bass booster bellow the AV that is connected to a purchased smart socket) and everything toggles, ready for playing music through Bluetooth or Spotify. Afterwards, I just tell Alexa to turn off everything and the AV and bass booster are turned off.
-<a>
-<img src="doc/gifs/iriot_example1_usage.gif" width="auto" height="700px" style="max-height:100px">
-</a>
+
+<img src="doc/gifs/iriot_example1_usage.gif" width="auto" height="600px">
+
 ## The Circuit Board
 The circuit consists of few main parts: the Wi-Fi controller ESP8266, an IR LED, a converter from around 5V that an old phone charger supplies to 3V3, the supply voltage supported by the controller. There’s also a connector for a micro-USB cable.
 
